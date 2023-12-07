@@ -1,7 +1,7 @@
 aleo smart contract
 uu
 yu
-نصب پیش نیازها 
+نصب پینیازها 
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
